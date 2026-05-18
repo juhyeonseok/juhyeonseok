@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!%20HyeonSeok's%20Page&&fontSize=30fontColor=F5F5F5&fontAlign=50&fontAlignY=40&color=_hexcode=232323)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!%20HyeonSeok's%20Page&fontSize=20&fontColor=F5F5F5&fontAlign=50&fontAlignY=40&color=_hexcode=232323)
 
 ## Hi there 👋
 
