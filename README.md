@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
 ### 💻 Skill
 <img src="https://img.shields.io/badge/Web Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
 <img src="https://img.shields.io/badge/System Hacking-000000?style=for-the-badge&logo=gnu&logoColor=white">
@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=_hexcode=232323)
