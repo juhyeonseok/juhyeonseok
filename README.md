@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
 ### 💻 Skill
+<div align="center">
 <img src="https://img.shields.io/badge/Web Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
 <img src="https://img.shields.io/badge/System Hacking-000000?style=for-the-badge&logo=gnu&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
