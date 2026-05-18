@@ -39,9 +39,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juhyeonseok&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhyeonseok&layout=compact&theme=radical" />
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&&reversal=true&color=_hexcode=232323)
