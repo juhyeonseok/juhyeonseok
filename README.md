@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!%20HyeonSeok's%20Page&fontSize=40&fontColor=F5F5F5&fontAlign=50&fontAlignY=40&color=_hexcode=232323)
 
-## Hi there 👋
-
 <!--
 **juhyeonseok/juhyeonseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
