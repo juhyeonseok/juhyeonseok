@@ -1,24 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!%20HyeonSeok's%20Page&fontSize=40&fontColor=F5F5F5&fontAlign=50&fontAlignY=40&color=_hexcode=232323)
 
-<!--
-**juhyeonseok/juhyeonseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Security
+<img src="https://img.shields.io/badge/Web Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/System Hacking-000000?style=for-the-badge&logo=gnu&logoColor=white">
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 💻 Skill
 ---
 <div align="center">
-<img src="https://img.shields.io/badge/Web Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/System Hacking-000000?style=for-the-badge&logo=gnu&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
