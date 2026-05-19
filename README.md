@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!%20HyeonSeok's%20Page&fontSize=40&fontColor=F5F5F5&fontAlign=50&fontAlignY=40&color=_hexcode=232323)
 
 ### Security
+<div align="center">
 <img src="https://img.shields.io/badge/Web Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
 <img src="https://img.shields.io/badge/System Hacking-000000?style=for-the-badge&logo=gnu&logoColor=white">
+</div>
 ---
 
 ### 💻 Skill
